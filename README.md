@@ -15,5 +15,6 @@ If everything looks nice and works for you, you can install it!
 1. Open your browser settings
 2. Find your home page settings
 3. Instead of Google as your home page, point the URL to the file on your computer. It should look like: "file:///C:/[PATH]" where the [PATH] is the path to the .HTML file.
+
 3.1. Optional, but you can also set your new tab page to your start page.
 4. Save your settings and hit the Home button.
