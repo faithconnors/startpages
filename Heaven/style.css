@@ -1,0 +1,106 @@
+@font-face {
+  font-family: basictitle;
+  src: url("basictitlefont.ttf") format('truetype');
+}
+
+p {
+  font-size: 90px;
+  text-align: center;
+  color: #FFFFFF;
+  font-family: basictitle;
+  border: 5px;
+  border-color: #FFFFFF;
+}
+
+body {
+  background-image: url("back.png");
+}
+section {
+  width: 40%;
+  height: 70%;
+  margin: auto;
+}
+
+#box1bg {
+  text-align: center;
+  height: 400px;
+  width: 320px;
+  float: left;
+  background-color: #494949;
+  opacity: 0.2;
+  border: 5px;
+  border-color: #FFFFFF;
+}
+
+#box2 {
+  text-align: center;
+  height: 400px;
+  width: 320px;
+  float: right;
+  background-color: #494949;
+  opacity: 0.2;
+  margin-bottom: 500px
+}
+
+button1 {
+  padding-bottom: 50px;
+  color: #FFFFFF;
+  font-family: basictitle;
+  font-size: 40px;
+  text-align: center;
+}
+
+button2 {
+  padding-bottom: 50px;
+  color: #FFFFFF;
+  font-family: basictitle;
+  font-size: 40px;
+  text-align: center;
+}
+
+button3 {
+  padding-bottom: 50px;
+  color: #FFFFFF;
+  font-family: basictitle;
+  font-size: 40px;
+  text-align: center;
+}
+
+button4 {
+  padding-bottom: 50px;
+  color: #FFFFFF;
+  font-family: basictitle;
+  font-size: 40px;
+  text-align: center;
+}
+
+button5 {
+  padding-bottom: 50px;
+  color: #FFFFFF;
+  font-family: basictitle;
+  font-size: 40px;
+  text-align: center;
+}
+
+button6 {
+  padding-bottom: 50px;
+  color: #FFFFFF;
+  font-family: basictitle;
+  font-size: 40px;
+  text-align: center;
+}
+
+a:link {
+  text-decoration: none;
+  color: #FFFFFF;
+}
+
+a:visited {
+  text-decoration: none;
+  color: #FFFFFF;
+}
+
+a:hover {
+  text-decoration: none;
+  color: #333333;
+}
