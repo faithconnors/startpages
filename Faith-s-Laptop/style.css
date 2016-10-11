@@ -1,0 +1,53 @@
+@font-face {
+  font-family: basictitle;
+  src: url("basictitlefont.ttf") format('truetype');
+}
+
+body {
+  background-image: url("back.jpg");
+  background-size: 1366px 768px;
+}
+
+p {
+  font-family: basictitle;
+  color: #EEEEEE;
+  font-size: 60px;
+  margin: auto;
+  text-align: center;
+}
+
+button1 {
+  font-family: basictitle;
+  color: #FFFFFF;
+  font-size: 30px;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+#box1,#box2 {
+  width: 40%;
+  height: 400px;
+  background-color: #333333;
+  opacity: 0.6;
+  text-align: center;
+  border: 3px solid white;
+}
+
+section {
+  width: 60%;
+  margin: auto;
+}
+
+#box1 {
+  float: left;
+}
+
+#box2 {
+  float: right;
+}
