@@ -1,0 +1,98 @@
+@font-face {
+  font-family: basictitle;
+  src: url("basictitlefont.ttf") format('truetype');
+}
+
+form {
+  display: inline-block;
+  text-align: center;
+}
+body {
+  background-image: url(back.png);
+}
+
+p {
+  font-family: basictitle;
+  font-size: 90px;
+  color: #FFFFFF;
+  text-align: center;
+}
+
+section {
+  width: 57%;
+  margin: auto;
+}
+
+.button {
+  width: 50px;
+  height: 30px;
+  font-family: basictitle;
+  font-size: 30px;
+  color: #FFFFFF;
+}
+
+#search {
+  text-align: center;
+  margin: auto;
+}
+
+#box1 {
+  text-align: center;
+  width: 350px;
+  height: 350px;
+  background-color: #333333;
+  display: inline-block;
+  opacity: 0.5
+}
+
+
+#box2 {
+  text-align: center;
+  width: 350px;
+  height: 350px;
+  display: inline-block;
+  margin: auto;
+  background-color: #333333;
+  opacity: 0.5
+}
+
+#box3 {
+  text-align: center;
+  width: 350px;
+  height: 350px;
+  display: inline-block;
+  background-color: #333333;
+  opacity: 0.5
+}
+
+#textbox {
+	border:2px solid #456879;
+	border-radius:10px;
+	height: 24px;
+	width: 230px;
+}
+
+.btn {
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  padding: 5px;
+  font-size: 15px;
+  background: #456879;
+  border: solid #1a282e 2px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  text-decoration: none;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
